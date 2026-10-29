@@ -1,0 +1,8 @@
+{
+  "name": "dropzone-esports-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('DropZone is a static HTML demo; no bundling required.')\""
+  }
+}
